@@ -22,36 +22,10 @@ a {
   align-items: center;
 }
 
-.text-box {
-  height: auto;
-  width: auto;
-  margin: 1vh;
-  background-color: white;
-  justify-content: center;
-  align-items: center;
-  border: none;
-}
-
 .title {
   font-size: 6vh;
   text-align: center;
+  color: #ffffff;
   font-family: 'Roboto', sans-serif;
   padding: 1vh;
-}
-
-.subtitle {
-  font-size: 4vh;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  padding: 0 1vh 1vh 1vh;
-}
-
-.footer {
-  font-size: 1vh;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  padding: 0 1vh 1vh 1vh;
-  color: white;
-  position: absolute;
-  bottom: 0;
 }
